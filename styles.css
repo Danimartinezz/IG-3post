@@ -1,0 +1,64 @@
+
+.body{
+    margin: 0;
+    padding: 0;
+}
+.instagram{
+    background-color: rgb(211, 211, 211);
+    margin: 0;
+}
+.instagram-post{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.instagram-header{
+    text-align: center;
+    margin: 0;
+    background-color: white;
+}
+.instagram-header h1{
+    text-align: center;
+    margin: 0;
+}
+.instagram-feed {
+	width: 500px;
+
+	margin: auto;
+}
+
+.post-header{
+    display: flex;
+    background-color: white;
+}
+.username{
+    width: 80%;
+	margin: 0;
+	padding: 0px;
+}
+.date{
+    width: 20%;
+	margin: 0;
+	padding: 0px;
+    text-align: right;
+}
+.username p{
+	margin: 0;
+}
+.date span{
+	margin: 0;
+}
+.photo{
+    width: 500px;
+	height: 400px;
+}
+.photo img{
+	width: 500px;
+	height: 400px;
+}
+.caption{
+    background-color: white;
+    margin: 0;
+}
+.caption p{
+    margin: 0
+}
