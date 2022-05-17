@@ -1,5 +1,5 @@
 
-.body{
+body{
     margin: 0;
     padding: 0;
 }
@@ -22,13 +22,14 @@
 }
 .instagram-feed {
 	width: 500px;
-
+    padding-bottom: 20px;
 	margin: auto;
 }
 
 .post-header{
     display: flex;
     background-color: white;
+    padding: 10px;
 }
 .username{
     width: 80%;
@@ -58,6 +59,7 @@
 .caption{
     background-color: white;
     margin: 0;
+    padding: 10px;
 }
 .caption p{
     margin: 0
